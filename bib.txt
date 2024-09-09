@@ -1,0 +1,18 @@
+@article{li2023classification,
+  title={From classification to generation: Insights into crosslingual retrieval augmented icl},
+  author={Li, Xiaoqian and Nie, Ercong and Liang, Sheng},
+  journal={arXiv preprint arXiv:2311.06595},
+  year={2023}
+}
+@article{cheng2023uprise,
+  title={Uprise: Universal prompt retrieval for improving zero-shot evaluation},
+  author={Cheng, Daixuan and Huang, Shaohan and Bi, Junyu and Zhan, Yuefeng and Liu, Jianfeng and Wang, Yujing and Sun, Hao and Wei, Furu and Deng, Denvy and Zhang, Qi},
+  journal={arXiv preprint arXiv:2303.08518},
+  year={2023}
+}
+@article{dai2022promptagator,
+  title={Promptagator: Few-shot dense retrieval from 8 examples},
+  author={Dai, Zhuyun and Zhao, Vincent Y and Ma, Ji and Luan, Yi and Ni, Jianmo and Lu, Jing and Bakalov, Anton and Guu, Kelvin and Hall, Keith B and Chang, Ming-Wei},
+  journal={arXiv preprint arXiv:2209.11755},
+  year={2022}
+}
