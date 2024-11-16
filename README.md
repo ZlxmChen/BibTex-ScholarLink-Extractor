@@ -4,11 +4,14 @@ This project is a Python script that automates the extraction of citation links 
 
 ## Features
 
-- Extracts citation links from Google Scholar based on input queries.
+- Extracts citation links from Google Scholar based on input queries (Support fuzzy search).
 - Fetches bibliographic data in `.bib` format for each citation.
 - Supports appending or overwriting results in the output files.
 - Handles empty lines and failed queries gracefully.
 
+## Features Incoming
+- Support for GB/T 7714
+- Enhance fuzzy search result
 ## Requirements
 
 - Python 3.7 or higher
@@ -81,3 +84,5 @@ Contributions are welcome! If you encounter bugs or have feature suggestions, fe
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 
