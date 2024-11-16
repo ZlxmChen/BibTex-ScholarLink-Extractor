@@ -1,3 +1,1 @@
-From classification to generation: Insights into crosslingual retrieval augmented icl
-Uprise: Universal prompt retrieval for improving zero-shot evaluation
-Promptagator: Few-shot dense retrieval from 8 examples
+Exploring the Effects of Sensory Conflicts on Cognitive Fatigue in VR Remappings
